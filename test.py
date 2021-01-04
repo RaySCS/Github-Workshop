@@ -1,2 +1,6 @@
 
-print("Hello World")
+
+def start():
+    print("Hello World Again!")
+
+start()
